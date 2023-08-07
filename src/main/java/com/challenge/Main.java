@@ -37,10 +37,7 @@ import java.util.logging.Logger;
                 accounts.add(newAccount);
 
             }
-            public static void transactions()
-            {
-
-            }
+           
             public static void displayAccounts() {
                 if(accounts.size() > 0)
                 {
